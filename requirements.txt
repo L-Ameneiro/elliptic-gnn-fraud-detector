@@ -6,13 +6,5 @@ ipykernel
 
 scikit-learn
 
-torch
-torchvision
-torchaudio
-torch-geometric
-torch-cluster
-torch-spline-conv
-
-
 networkx
 
